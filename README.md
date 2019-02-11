@@ -16,3 +16,6 @@ hell.py:
   确保服务器只会在该脚本被Python解释器直接执行的时候才运行，而不是作为模块导入的
   时候。
 关闭服务器，按CTRL+C.
+
+
+参考地址：http://docs.jinkan.org/docs/flask/index.html
